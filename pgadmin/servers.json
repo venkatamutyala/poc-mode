@@ -1,13 +1,12 @@
 {
   "Servers": {
     "1": {
-      "Name": "PostgresDB",
+      "Name": "db",
       "Group": "Servers",
       "Host": "db",
       "Port": 5432,
       "MaintenanceDB": "postgres",
       "Username": "postgres",
-      "Password": "yolo1234",
       "SSLMode": "prefer"
     }
   }
